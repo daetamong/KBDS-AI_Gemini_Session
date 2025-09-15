@@ -21,7 +21,8 @@
 # 4. Gemini 모델 사용해보기
 
 # 5. Streamlit 기반의 나만의 챗봇 만들기
-- 1) 터미널 내에서 pip install -r requirements.txt 실행
-  2) app.py 생성 후 코드 복사
-  3) 터미널에 streamlit run app.py 실행
+- 1) 터미널 내에서 cd gemini 실행
+  2) 터미널 내에서 pip install -r requirements.txt 실행
+  3) app.py 생성 후 코드 복사
+  4) 터미널에 streamlit run app.py 실행
  
