@@ -19,7 +19,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 st.title("나만의 챗봇")
 
 # 마크다운 형태의 텍스트 표현
-st.markdown("streamlit을 사용한 나만의 챗봇! 헤헿")
+st.markdown("streamlit을 사용한 나만의 챗봇!")
 
 load_dotenv()
 
