@@ -15,7 +15,7 @@
   7) daetamong/KBDS-AI_Gemini_Session 검색 후 생성
      
 # 3. 패키지 설치
-- 터미널에서 pip install requirements.txt 실행
+- 터미널에서 pip install -r requirements.txt 실행
 - 패키지가 정상적으로 설치됐는지 확인 : pip show google-generativeai
 
 # 4. Gemini 모델 사용해보기
