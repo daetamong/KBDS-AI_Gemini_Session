@@ -25,4 +25,6 @@
   2) 터미널 내에서 pip install -r requirements.txt 실행
   3) app.py 생성 후 코드 복사
   4) 터미널에 streamlit run app.py 실행
- 
+
+https://streamlit.io/
+ <img width="301" height="168" alt="image" src="https://github.com/user-attachments/assets/10ef1e89-5456-4a5b-b237-f47b83b11646" />
