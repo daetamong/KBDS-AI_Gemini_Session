@@ -15,9 +15,9 @@
   7) daetamong/KBDS-AI_Gemini_Session 검색 후 생성
      
 # 3. 패키지 설치
-- 1) pip install python-dotenv
-  2) pip install google-generativeai
-    - 패키지가 정상적으로 설치됐는지 확인 : pip show google-generativeai
+- 터미널에서 pip install requirements.txt 실행
+- 패키지가 정상적으로 설치됐는지 확인 : pip show google-generativeai
+
 # 4. Gemini 모델 사용해보기
 
 # 5. Streamlit 기반의 나만의 챗봇 만들기
