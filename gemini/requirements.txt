@@ -1,8 +1,0 @@
-streamlit
-python-dotenv
-google-generativeai
-langchain
-langchain-google-genai
-langchain-openai
-langchain-community
-faiss-cpu
