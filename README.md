@@ -27,4 +27,4 @@
   4) 터미널에 streamlit run app.py 실행
 
 https://streamlit.io/
- <img width="301" height="168" alt="image" src="https://github.com/user-attachments/assets/10ef1e89-5456-4a5b-b237-f47b83b11646" />
+https://www.google.com/imgres?q=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%84%EB%B2%A0%EB%94%A9&imgurl=https%3A%2F%2Fwww.cognica.io%2F_next%2Fimage%3Furl%3D%252Fpublic%252Fblog%252Fko%252F20230912%252Fvector-embedding.png%26w%3D2048%26q%3D75%26dpl%3Ddpl_FHNbMBZWLA9LpMpBAErYvVVHp28N&imgrefurl=https%3A%2F%2Fwww.cognica.io%2Fblog%2Fposts%2F2023-09-13-vector-embedding&docid=GQg_2SxuWOxTUM&tbnid=jVPIsP1pqtITWM&vet=12ahUKEwi6jcyTgN2PAxUwslYBHep0EA4QM3oECGwQAA..i&w=1133&h=633&hcb=2&ved=2ahUKEwi6jcyTgN2PAxUwslYBHep0EA4QM3oECGwQAA
