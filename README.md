@@ -27,4 +27,8 @@
   4) 터미널에 streamlit run app.py 실행
 
 https://streamlit.io/
+---
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fpkgpl.org%2F2023%2F09%2F21%2Flangchain-llmchain%2F&psig=AOvVaw0QkqFT9F6lELLelqhddzv4&ust=1758103469334000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjegfmD3Y8DFQAAAAAdAAAAABAE
+---
 https://www.google.com/imgres?q=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%84%EB%B2%A0%EB%94%A9&imgurl=https%3A%2F%2Fwww.cognica.io%2F_next%2Fimage%3Furl%3D%252Fpublic%252Fblog%252Fko%252F20230912%252Fvector-embedding.png%26w%3D2048%26q%3D75%26dpl%3Ddpl_FHNbMBZWLA9LpMpBAErYvVVHp28N&imgrefurl=https%3A%2F%2Fwww.cognica.io%2Fblog%2Fposts%2F2023-09-13-vector-embedding&docid=GQg_2SxuWOxTUM&tbnid=jVPIsP1pqtITWM&vet=12ahUKEwi6jcyTgN2PAxUwslYBHep0EA4QM3oECGwQAA..i&w=1133&h=633&hcb=2&ved=2ahUKEwi6jcyTgN2PAxUwslYBHep0EA4QM3oECGwQAA
+---
